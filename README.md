@@ -1,2 +1,2 @@
 # automatic-file-sorter
-an automated file sorter using Python
+a short and simple python script to help organize the files automatically based on their type
